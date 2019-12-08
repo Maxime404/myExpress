@@ -1,0 +1,39 @@
+{
+  "name": "myexpress",
+  "version": "1.0.0",
+  "description": "myExpress module",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "start": "npx nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacinouFabian/my-express.git"
+  },
+  "keywords": [
+    "express.js",
+    "node",
+    "javascript",
+    "http",
+    "client",
+    "server",
+    "get",
+    "post",
+    "put",
+    "delete"
+  ],
+  "author": "FACINOU Fabian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacinouFabian/my-express/issues"
+  },
+  "homepage": "https://github.com/FacinouFabian/my-express#readme"
+}
